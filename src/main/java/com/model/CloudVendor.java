@@ -8,6 +8,7 @@ public class CloudVendor {
 	
 	public CloudVendor() {
 		
+		
 	}
 
 	public CloudVendor(String vendorId, String vendorName, String vendorAddress, String vendorPhoneNumber) {
